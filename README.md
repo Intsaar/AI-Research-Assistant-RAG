@@ -26,7 +26,9 @@ An advanced **Retrieval-Augmented Generation (RAG)** pipeline designed to perfor
 ---
 
 ## 📸 Interface Preview
-*(Place your Gradio interface screenshot here to showcase the system in action!)*
+<img width="600" height="400" alt="Screenshot 2026-05-18 034929" src="https://github.com/user-attachments/assets/7e6c2809-4cee-4415-9481-f6e35f6410e3" />
+
+
 
 ---
 
@@ -34,7 +36,7 @@ An advanced **Retrieval-Augmented Generation (RAG)** pipeline designed to perfor
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/AI-Research-Assistant.git
+   git clone https://github.com/Intsaar/AI-Research-Assistant.git
    cd AI-Research-Assistant
    ```
 
