@@ -36,7 +36,7 @@ An advanced **Retrieval-Augmented Generation (RAG)** pipeline designed to perfor
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/Intsaar/AI-Research-Assistant.git
+   git clone https://github.com/Intsaar/AI-Research-Assistant-RAG.git
    cd AI-Research-Assistant
    ```
 
