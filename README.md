@@ -1,6 +1,8 @@
 # 📑 AI Research Assistant (Tabular RAG System)
 
-An advanced **Retrieval-Augmented Generation (RAG)** pipeline designed to perform semantic context-aware Search and Q&A over scientific papers and academic datasets. Built using **LangChain**, **ChromaDB**, and **Llama-3 (via Groq Cloud API)**, this system processes tabular academic metadata (CSV formats) from Kaggle to fetch, filter, and answer complex research questions without LLM hallucinations.
+An end-to-end, production-ready Retrieval-Augmented Generation (RAG) pipeline designed for semantic, context-aware Search and Q&A over 7,700+ ArXiv AI research papers. 
+
+Built using **LangChain**, **ChromaDB**, and **Llama-3.1-8B** (via Groq LPU Cloud API), this system processes academic metadata, performs dense vector retrieval, and enforces strict hallucination guardrails. It features a custom Python-driven metadata extraction layer to ensure 100% verified citation links, delivered through an interactive **Gradio** web interface.
 
 ---
 
