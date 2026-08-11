@@ -26,13 +26,12 @@ An advanced **Retrieval-Augmented Generation (RAG)** pipeline designed to perfor
 ---
 
 ## 📸 Interface Preview
-<<<<<<< HEAD
-*(Place your Gradio interface screenshot here to showcase the system in action!)*
+
 =======
 <img width="600" height="400" alt="Screenshot 2026-05-18 034929" src="https://github.com/user-attachments/assets/7e6c2809-4cee-4415-9481-f6e35f6410e3" />
 
 
->>>>>>> e9094bee3747290ba396760de67808900912040c
+
 
 ---
 
